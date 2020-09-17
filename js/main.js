@@ -39,7 +39,7 @@ function counter(){
 
 start.addEventListener('click', function(e){
     e.preventDefault();
-    start.disabled=true;
+    start.setAttribute('disabled', 'disabled');
     addClass(start, 'disabled');
     changePhoto(start, 'images/cancel-button.png');
     changePhoto(rocket, 'images/rocket2.gif');
