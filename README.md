@@ -1,8 +1,16 @@
 # Rocket : Bootcamp mini-project
+### View result here [link](https://nada-tb.github.io/build_counter_vanillaJS/)
 
-## Purpose:
-1- use javaScript timing events
+## The application's features :
+* Create an event attached to the button.
+* On click, the countdown starts, the rocket's image changes to show the combustion at launch. 
+* The button is disabled after clicking.
+* When the countdown attain ten, the rocket flys (CSS animation).
 
-2- explore animation with CSS and javaScript
-
-
+## Programming concepts applied:
+JavaScript | CSS
+-----------|------------
+DOM document | animation
+DOM methods | positions
+timinig event setInterval() | pointer-events
+timing event clearInterval() |
