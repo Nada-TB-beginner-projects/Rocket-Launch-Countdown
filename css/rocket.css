@@ -25,7 +25,7 @@ body {
 
 .disabled {
     filter:grayscale(100%);
-    cursor: not-allowed!important;
+    pointer-events: none;
 }
 
 #billboard {
