@@ -1,6 +1,9 @@
 # Rocket : Bootcamp mini-project
 ### View result here [link](https://nada-tb.github.io/build_counter_vanillaJS/)
 
+* ### [The application's features](#the-applications-features-)
+* ### [Programming concepts applied](#programming-concepts-applied-1)
+
 ## The application's features :
 * Create an event attached to the button.
 * On click, the countdown starts, the rocket's image changes to show the combustion at launch. 
