@@ -8,7 +8,7 @@
 * Create an event attached to the button.
 * On click, the countdown starts, the rocket's image changes to show the combustion at launch. 
 * The button is disabled after clicking.
-* When the countdown attain ten, the rocket flys (CSS animation).
+* When the countdown attains ten, the rocket flys (CSS animation).
 
 ## Programming concepts applied:
 JavaScript | CSS
